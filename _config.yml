@@ -1,11 +1,11 @@
 # Site wide configuration
 
-title: Site Title
+title: bldg20
 locale: en_US
-description: Describe your website here.
+description: The site for the home of the gentlemen who jovially inhabit 45 Norfolk, San Francisco.
 logo: site-logo.png
 search: true
-url: 
+#url: bldg20.github.io
 
 
 # Jekyll configuration
@@ -49,5 +49,5 @@ owner:
     analytics:
     verify:
     ad-client:
-    ad-slot: 
+    ad-slot:
   bing-verify:
